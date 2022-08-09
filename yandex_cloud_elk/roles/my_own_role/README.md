@@ -12,6 +12,7 @@ Role Variables
 --------------
 
 my_own_path: "tmp/test"
+
 my_own_content: "Test is ok"
 
 Dependencies
