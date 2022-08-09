@@ -1,0 +1,4 @@
+---
+# defaults file for my_own_role
+my_own_path: "tmp/test"
+my_own_content: "Test is ok"
