@@ -14,4 +14,5 @@ On Ubuntu 20.04
 --------------
 
 my_own_path: "tmp/test"
+
 my_own_content: "Test is ok"
